@@ -1,6 +1,9 @@
 # polybar-spotify
 Spotify status module for polybal with text scrolling
 
+![](screenshots/demo2.gif)
+![](screenshots/demo.gif)
+
 ## Dependencies
 
 - [playerctl](https://github.com/altdesktop/playerctl#installing) - To interact with Spotify
