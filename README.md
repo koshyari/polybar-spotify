@@ -2,7 +2,7 @@
 Spotify status module for polybal with text scrolling
 
 ![](screenshots/demo2.gif)
-![](screenshots/demo.gif)
+![](screenshots/demo1.gif)
 
 ## Dependencies
 
